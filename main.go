@@ -2,8 +2,9 @@ package main
 
 import (
 	"log"
-	"github.com/akarnisdrakari/backend_golang/handlers"
+
 	"github.com/akarnisdrakari/backend_golang/bd"
+	"github.com/akarnisdrakari/backend_golang/handlers"
 )
 
 func main() {
